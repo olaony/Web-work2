@@ -1,0 +1,35 @@
+@font-face {
+	font-family: 'GreekaTYGRA';
+	src: url('../fonts/greekatygra.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/greekatygra.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/greekatygra.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/greekatygra.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/greekatygra.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/greekatygra.svg#greekatygra') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+body {
+    background-color: floralwhite;
+}
+h1 {
+    color: tomato;
+    font-family: 'GreekaTYGRA';
+}
+h3 {
+    color: maroon;
+}
+a {
+    color: tomato;
+    font-family: 'GreekaTYGRA';
+    font-size: 24px;
+}
+.salty {
+    font-size: 20px;
+}
+.sweet {
+    font-size: 20px;
+}
+#greek {
+   color: maroon;
+    font-family: 'GreekaTYGRA';
+    font-size: 20px;
+}
